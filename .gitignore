@@ -207,3 +207,5 @@ marimo/_lsp/
 __marimo__/
 
 classifying_fruits/  
+
+Fruit_dataset/*
